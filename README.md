@@ -1,5 +1,6 @@
 ## Hi there, I'm Ram 👋
-
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me: Text me on discord! rammashruwala
 <!--
 **ram-mashruwala/ram-mashruwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
